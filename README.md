@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Soy Braian Alejandro Aguilera, un estudiante con ganas de seguir aprendiendo en el mundo de la programación
+
+
 <!--
 **braguilera/braguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
