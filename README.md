@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Soy Braian Alejandro Aguilera, un estudiante con ganas de seguir aprendiendo en el mundo de la programación
+I'm Braian Alejandro Aguilera, a student wanting to continue learning, expanding my knowledge with projects and getting experiencie with them. Take a look!
 
 
 <!--
