@@ -75,6 +75,10 @@ Web developer
 </div>
 <br/>  
 
-## Some projects  
 
-<br/>  
+
+<div id="header" align="center">
+
+## Some projects here
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWx2eGJ0eGg0dHl4dXR2dHg5ZHdpcDN0cWQ1M2d0bmoyamwyMXpmciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="20"/>
+</div>
