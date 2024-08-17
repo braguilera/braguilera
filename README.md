@@ -14,7 +14,9 @@ Web developer
 
 <br/>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=braguilera&theme=dark&hide_border=false" /> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braguilera&layout=compact)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -67,4 +69,8 @@ Web developer
 <a href = "https://wa.me/541137763097" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"  /></a>
 
 </div>
+<br/>  
+
+## Some projects  
+
 <br/>  
