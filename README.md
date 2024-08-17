@@ -4,13 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Braian, a student in software development, full-stack focused on Frontend developer 👨‍💻 constantly working on projects to be able to see improving and learning something new! 🚀</div>  
-  
 
 <br/>  
 
