@@ -1,13 +1,11 @@
 ![Header](https://github.com/user-attachments/assets/5b710f6c-4dc8-41df-a7aa-47426ee17fc2)
 
-
-Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to the Braian's GitHub!
 =================================================================================================================================================
 
-Web developer
+Desarrollador web
 -------------
 
-### <div align="center">I'm Braian, a student in software development, full-stack focused on Frontend developer 👨‍💻 constantly working on projects to be able to see improving and learning something new! 🚀</div>  
+### <div align="center">Soy estudiante en desarrollo de software, con conocimientos Fullstack, pero enfocado en el desarrollo Frontend 👨‍💻. Constantemente trabajando en proyectos para mejorara mis conocimientos, aprendiendo algo nuevo con cada paso!! 🚀</div>  
 
 <br/>  
 
@@ -19,7 +17,7 @@ Web developer
 
 </div> 
 
-## My Skill Set  
+## Mis conocimientos
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -45,7 +43,7 @@ Web developer
 
 </td><td valign="top" width="33%">
 
-### Tools
+### Herramientas
 
 <div align="center">  
 
@@ -59,7 +57,7 @@ Web developer
 <br/>  
 
 
-## Connect with me  
+## Contacta conmigo!
 <div align="center">
 
 <a href="https://www.linkedin.com/in/braian-alejandro-aguilera-bb5959217/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -73,4 +71,5 @@ Web developer
 
 ## Some projects here
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWx2eGJ0eGg0dHl4dXR2dHg5ZHdpcDN0cWQ1M2d0bmoyamwyMXpmciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="20"/>
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
