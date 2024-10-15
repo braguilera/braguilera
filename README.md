@@ -1,19 +1,22 @@
 ![Header](https://github.com/user-attachments/assets/5b710f6c-4dc8-41df-a7aa-47426ee17fc2)
 
-=================================================================================================================================================
+============================================================================================
 
 Desarrollador web
 -------------
 
 ### <div align="center">Soy estudiante en desarrollo de software, con conocimientos Fullstack, pero enfocado en el desarrollo Frontend 👨‍💻. Constantemente trabajando en proyectos para mejorara mis conocimientos, aprendiendo algo nuevo con cada paso!! 🚀</div>  
 
+### Hecha un vistazo a
+
+* 🖥️  [Mí portafolio](http://braguilera.github.io/Repositorio-Aguilera-Braian-Alejandro/)
+* 💼  [LinkedIn](http://www.linkedin.com/in/braian-alejandro-aguilera-bb5959217/)    
+
 <br/>  
 
 <div align="center">  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braguilera&layout=compact)
-
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=braguilera&theme=dark&hide_border=false"/>  
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=braguilera&theme=dark&hide_border=false"/>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braguilera&layout=compact)    
 
 </div> 
 
@@ -69,7 +72,6 @@ Desarrollador web
 
 
 
-## Some projects here
+## Mas proyectos aquí
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWx2eGJ0eGg0dHl4dXR2dHg5ZHdpcDN0cWQ1M2d0bmoyamwyMXpmciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="20"/>
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
