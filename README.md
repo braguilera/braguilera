@@ -5,18 +5,18 @@
 Desarrollador web
 -------------
 
-### <div align="center">Soy estudiante en desarrollo de software, con conocimientos Fullstack, pero enfocado en el desarrollo Frontend 👨‍💻. Constantemente trabajando en proyectos para mejorara mis conocimientos, aprendiendo algo nuevo con cada paso!! 🚀</div>  
+### <div align="center">Soy estudiante en desarrollo de software, con conocimientos Fullstack, enfocado en el desarrollo Frontend 👨‍💻. Constantemente trabajando en proyectos para mejorar mis habilidades, aprendiendo algo nuevo con cada paso!! 🚀</div>  
 
-### Hecha un vistazo a
+### Echa un vistazo a
 
-* 🖥️  [Mí portafolio](http://braguilera.github.io/Repositorio-Aguilera-Braian-Alejandro/)
+* 🖥️  [Mi portafolio](http://braguilera.github.io/Repositorio-Aguilera-Braian-Alejandro/)
 * 💼  [LinkedIn](http://www.linkedin.com/in/braian-alejandro-aguilera-bb5959217/)    
 
 <br/>  
 
 <div align="center">  
 
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=braguilera&theme=dark&hide_border=false"/>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braguilera&layout=compact)    
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=braguilera&theme=dark&hide_border=false"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braguilera&layout=compact)
 
 </div> 
 
@@ -31,7 +31,6 @@ Desarrollador web
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 </div>
 
 </td><td valign="top" width="33%">
@@ -42,6 +41,7 @@ Desarrollador web
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 </div>
 
 </td><td valign="top" width="33%">
@@ -60,7 +60,7 @@ Desarrollador web
 <br/>  
 
 
-## Contacta conmigo!
+## ¡Contacta conmigo!
 <div align="center">
 
 <a href="https://www.linkedin.com/in/braian-alejandro-aguilera-bb5959217/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -71,7 +71,6 @@ Desarrollador web
 <br/>  
 
 
-
-## Mas proyectos aquí
+## Más proyectos aquí
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWx2eGJ0eGg0dHl4dXR2dHg5ZHdpcDN0cWQ1M2d0bmoyamwyMXpmciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="20"/>
 
